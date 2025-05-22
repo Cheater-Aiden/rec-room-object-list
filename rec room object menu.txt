@@ -1,0 +1,30 @@
+HELLO this is the rec room object list for expoilting but ill let you know for futher updates
+--------------------------------------------------------------------------------------------------------------ShareCamera string
+
+FeedbackTool string  use these for cheating
+
+-------------------------------------------------------
+
+
+
+
+[Arena_Shotgun]
+
+[Sandbox_Hook_Ladder]
+
+[PaintballRifleScoped]
+
+[MakerPen]
+(you can get banned for maker pen)
+
+[Charadespen]
+(a knock off for maker pen)
+
+
+[Arena_Pistol]
+
+
+[Paintball_PaintThrower]
+
+
+[HandHeldStreamerCam]
